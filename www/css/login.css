@@ -1,0 +1,9 @@
+body {
+    background-color:red;
+}
+
+#divprova {
+    border: 5px solid black;
+    position: relative;
+    text-align: center;
+}
